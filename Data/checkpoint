@@ -1,0 +1,2 @@
+model_checkpoint_path: "20180214_rough_nn.ckpt"
+all_model_checkpoint_paths: "20180214_rough_nn.ckpt"
