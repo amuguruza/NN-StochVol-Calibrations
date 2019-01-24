@@ -5,7 +5,7 @@ The key contribution here is an implementation of a Neural Network framework to 
 
 <img src="NNGeneratedSmiles.png" width="1000"> 
 
-and manage to handle term structures (curves) of forward variances and achieve remarkable calibration precision
+and manage to handle term structures (curves) of forward variances and achieve remarkable calibration precision (see picture below).
 
 <img src="rBergomiTermStructureErrorCDF.png" width="1000"> 
 
