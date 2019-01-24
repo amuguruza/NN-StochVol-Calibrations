@@ -3,4 +3,4 @@ We implement the paper Deep Learning Volatility A deep neural network perspectiv
 
 The key contribution here is an implementation of a Neural Network framework to calibrate Stochastic volatility models, be it Markovian or not. We achieve an efficient Neural Network approximation of the implied volatility surface (see below)
 
-<img src="NNGeneratedSmiles.png" width="500"> 
+<img src="NNGeneratedSmiles.png" width="1000"> 
